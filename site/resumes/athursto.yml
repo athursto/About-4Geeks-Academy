@@ -35,8 +35,6 @@ basic_info:
 
     # Contact Information
     email: alison.thurston@gmail.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
     linkedin: alisonthurston1 #optional
     
     #
@@ -45,7 +43,7 @@ basic_info:
     github: athursto
     
     twitter: 'thvrsty' #optional
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: thvrsty # Number/Username, e.g. 123456/alandoe
 
     # languages you speak, levels inculde: Native, Professional
     languages:
@@ -71,16 +69,14 @@ education:
     - degree: BA in Politial Science
       university: Princeton
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      university_logo: https://www.pngitem.com/pimgs/m/353-3531691_shield-princeton-university-logo-hd-png-download.png
       time: 2008 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My studies at Princeton included courses on Indigenous Politics,
+        Race and the law, African conflicts, and drugs and the American legal system. 
+        My independent research consisted of the following
+          - Senior thesis on the politics of foreign aid
+          - Junior paper on alternative methods of foreign aid delivery
 # Your previous job experiences or voluntier
 experiences:
     - role: Talent and Culture Lead
@@ -90,34 +86,27 @@ experiences:
       company_logo: https://media-exp1.licdn.com/dms/image/C560BAQHxM78VwORvwA/company-logo_200_200/0?e=2159024400&v=beta&t=3ZvQqL-HUGw6ot7pt0sJcIMJSDsKdHHUb8i3FDKDQqA
       details: |
         As Talent and Culture lead I'm responsible for
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Recruiting and retaining a talented team 
+          - Planning and executing engaging retreats on a bimonthly basis
+    - role: Regional Manager (Promotion from Senior Project Manager)
+      time: 2017 - 2019
+      company: Viamo (formerly Voto Mobile), Dakar
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: https://media.glassdoor.com/sqll/2031941/viamo-squarelogo-1559907999894.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        As Regional Manager, I managed and recruited a diverse and dispersed team of six in Kigali
+        and Dakar. I was responsible overall for delivering high quality projects based in 
+        a proprietary platform for IVR call centers, hotlines and SMS campaigns. 
+    - role: Interim Operations Manager
+      time: 2016 - 2017
+      company: EQUIP Health, Dar es Salaam
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: https://media-exp1.licdn.com/dms/image/C560BAQHmp6u3Pj4Lzg/company-logo_200_200/0?e=2159024400&v=beta&t=RIJEoE5CK7zHpQPej6gJMuIU8ogSp-9zb6EvNwmjXDo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My role with EQUIP was to launch the Tanzanian office, building connections in a new
+        country for the consortium. My biggest accomplishment was the Standard Operating Procedures
+        for community-based ART, produced in conjunction with a range of stakeholders with strong
+        knowledge of the local context. 
 # Your project portfolio
 projects:
     intro: >
@@ -157,20 +146,11 @@ projects:
 
 skills:
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
+        level: 10%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 75%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
